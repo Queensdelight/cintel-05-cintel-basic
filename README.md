@@ -5,4 +5,4 @@ Simple PyShiny app with live data (using random, updating 1x/second)
 
 Go to PyShiny Playground at <https://shinylive.io/py/examples/#basic-app>.
 
-Copy and paste content from app.py and run. 
+Copy and paste content from [app.py](app.py) and run. 
