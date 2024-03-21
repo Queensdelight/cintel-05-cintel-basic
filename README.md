@@ -67,3 +67,7 @@ git add .
 git commit -m "Useful commit message"
 git push -u origin main
 ```
+
+## Enable GitHub Pages
+
+Go to your GitHub repo settings and enable GitHub Pages for the docs folder.
