@@ -24,6 +24,8 @@ git clone https://github.com/denisecase/cintel-05-cintel-basic
 
 ## Run Locally
 
+Open the project folder for editing in VS Code.
+
 Create a local project virtual environment named .venv, activate it, and install the requirements.
 When VS Code asks to use it for the workspace, select Yes.
 
